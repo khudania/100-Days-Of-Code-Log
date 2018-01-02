@@ -3,7 +3,8 @@
 ### Day 1: January 04, 2018 Thrusday
 
 
-**Today's Progress**: Finished With HTML, CSS and JS
+**Today's Progress**: Finished With HTML, CSS and JS.
+
 **Thoughts:** These is a useful and easy full screen landing page for any kind of website..
 
 **Link to work:** Full Screen Landing Page(http://khudania.gihtub.io/landingPage)
