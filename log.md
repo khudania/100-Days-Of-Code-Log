@@ -7,7 +7,7 @@
 
 **Thoughts:** These is a useful and easy full screen landing page for any kind of website..
 
-**Link to work:** Full Screen Landing Page(http://khudania.gihtub.io/landingPage)
+**Link to work:** [Full Screen Landing Page](http://khudania.gihtub.io/landingPage)
 
 
 ### Day 2: January 05, 2018 Friday
