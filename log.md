@@ -3,11 +3,13 @@
 ### Day 1: January 04, 2018 Thrusday
 
 
-**Today's Progress**: Finished With HTML, CSS and JS.
+**Today's Progress**: Finished With HTML andCSS.
 
-**Thoughts:** These is a useful and easy full screen landing page for any kind of website..
+**Thoughts:** I designed this webpage to keep track of all the challenges I am going to take.
 
-**Link to work:** [Full Screen Landing Page](http://khudania.gihtub.io/landingPage)
+**Link to work:** [Challenge log webpage](http://khudania.gihtub.io/landingPage)
+
+**Repo Link:** [Day 1 (Challenge Log Webpage)](https://github.com/khudania/Challenge-log-webpage)
 
 
 ### Day 2: January 05, 2018 Friday
