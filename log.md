@@ -18,6 +18,6 @@
 
 **Thoughts:**
 
-**Project Link:** &nbsp;[Github Link](#)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](#)
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/css-grid-sample-webpage)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/pen/ppWybV)
 
-**Github Repo Link** &nbsp;[Day 2 (------)](#)
+**Github Repo Link** &nbsp;[Day 2 (CSS Grid Dummy Web Page)](https://github.com/khudania/css-grid-sample-webpage)
