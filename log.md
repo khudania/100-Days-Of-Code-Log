@@ -18,6 +18,8 @@
 
 **Thoughts:**
 
-**Project Link:** [Github Link](#)
+**Project Link:**
 
-                 [Codepen Link](#)
+[Github Link](#)
+
+[Codepen Link](#)
