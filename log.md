@@ -7,7 +7,7 @@
 
 **Thoughts:** I designed this webpage using simple HTML and CSS to keep track of all the challenges I am going to take.
 
-**Link to work:** [Challenge log webpage](http://khudania.github.io/Challenge-log-webpage)
+**Project Link:** [Github Link (Challenge log webpage)](http://khudania.github.io/Challenge-log-webpage)
 
 **Github Repo Link:** [Day 1 (Challenge Log Webpage)](https://github.com/khudania/Challenge-log-webpage)
 
