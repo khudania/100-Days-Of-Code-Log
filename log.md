@@ -9,7 +9,7 @@
 
 **Link to work:** [Challenge log webpage](http://khudania.github.io/Challenge-log-webpage)
 
-**Repo Link:** [Day 1 (Challenge Log Webpage)](https://github.com/khudania/Challenge-log-webpage)
+**Github Repo Link:** [Day 1 (Challenge Log Webpage)](https://github.com/khudania/Challenge-log-webpage)
 
 
 ### Day 2: January 04, 2018 Thrusday
