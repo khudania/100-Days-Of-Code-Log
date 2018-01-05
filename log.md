@@ -25,7 +25,7 @@
 
 ### Day 3: January 05, 2018 Friday
 
-**Today's Progress:** Just Refersh the old HTML, CSS and BOOTSTRAO  concepts
+**Today's Progress:** Just Refersh the old HTML, CSS and BOOTSTRAP  concepts
 
 **Thoughts:** Created a CMS Admin Panel Theme(Just Front End, May be later I will Connet these with some Database) Using Bootstrap 3.3.7.  Now I am going to learn Bootstrap 4
 
