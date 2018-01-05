@@ -14,10 +14,21 @@
 
 ### Day 2: January 04, 2018 Thrusday
 
-**Today's Progress:**
+**Today's Progress:** Learned CSS Grid
 
-**Thoughts:**
+**Thoughts:** Created A dummy Web Page using CSS Grid.
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/css-grid-sample-webpage)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/pen/ppWybV)
 
 **Github Repo Link** &nbsp;[Day 2 (CSS Grid Dummy Web Page)](https://github.com/khudania/css-grid-sample-webpage)
+
+
+### Day 3: January 05, 2018 Friday
+
+**Today's Progress:** Just Refersh the old HTML, CSS and BOOTSTRAO  concepts
+
+**Thoughts:** Created a CMS Admin Panel Theme(Just Front End, May be later I will Connet these with some Database) Using Bootstrap 3.3.7.  Now I am going to learn Bootstrap 4
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/CMS-admin-panel-theme)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](#)
+
+**Github Repo Link** &nbsp;[Day 3 (CMS Admin Panel Theme)](https://github.com/khudania/CMS-admin-panel-theme)
