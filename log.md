@@ -29,6 +29,6 @@
 
 **Thoughts:** Created a CMS Admin Panel Theme(Just Front End, May be later I will Connet these with some Database) Using Bootstrap 3.3.7.  Now I am going to learn Bootstrap 4
 
-**Project Link:** &nbsp;[Github Link](https://khudania.github.io/CMS-admin-panel-theme)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](#)
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/CMS-admin-panel-theme)   
 
 **Github Repo Link** &nbsp;[Day 3 (CMS Admin Panel Theme)](https://github.com/khudania/CMS-admin-panel-theme)
