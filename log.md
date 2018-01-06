@@ -32,3 +32,16 @@
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/CMS-admin-panel-theme)   
 
 **Github Repo Link** &nbsp;[Day 3 (CMS Admin Panel Theme)](https://github.com/khudania/CMS-admin-panel-theme)
+
+
+### Day 4: January 06, 2018 Saturday
+
+**Today's Progress:** Started Learning javaScript
+
+**Thoughts:** Created a Bookmarking App Using Simple javaScript
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/bookmark-app)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/full/BJmddX)
+
+
+**Github Repo Link** &nbsp;[Day 4 (Bookmark App)](https://github.com/khudania/bookmark-app)
+
