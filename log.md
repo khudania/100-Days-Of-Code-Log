@@ -54,5 +54,5 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/basic-parallex-website/)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/full/jYaJqv)
 
-**Github Repo Link** &nbsp;[Day 4 (Bookmark App)](https://github.com/khudania/basic-parallex-website)
+**Github Repo Link** &nbsp;[Day 4 (Parallax Website)](https://github.com/khudania/basic-parallex-website)
 
