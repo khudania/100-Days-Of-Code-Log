@@ -42,6 +42,17 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/bookmark-app)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/full/BJmddX)
 
-
 **Github Repo Link** &nbsp;[Day 4 (Bookmark App)](https://github.com/khudania/bookmark-app)
+
+
+
+### Day 5: January 07, 2018 Sunday
+
+**Today's Progress:** Didn't do anything extra today. Just built a simple basic parallax Dummy Website.
+
+**Thoughts:** Created a Parallax Dummy Website
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/basic-parallex-website/)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/full/jYaJqv)
+
+**Github Repo Link** &nbsp;[Day 4 (Bookmark App)](https://github.com/khudania/basic-parallex-website)
 
