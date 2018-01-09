@@ -56,3 +56,21 @@
 
 **Github Repo Link** &nbsp;[Day 4 (Parallax Website)](https://github.com/khudania/basic-parallex-website)
 
+### Day 5: January 07, 2018 Sunday
+
+**Today's Progress:** Started Learning AngularJs.
+
+### Day 5: January 07, 2018 Sunday
+
+**Today's Progress:** Continue Learning AngularJs and Along with that I also Created my Profile.
+
+**Thoughts:** Created my Profile.
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/Profile/)
+
+**Github Repo Link** &nbsp;[Day 4 (Parallax Website)](https://github.com/khudania/Profile)
+
+
+
+
+
