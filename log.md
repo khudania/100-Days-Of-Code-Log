@@ -68,7 +68,7 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/Profile/)
 
-**Github Repo Link** &nbsp;[Day 4 (Parallax Website)](https://github.com/khudania/Profile)
+**Github Repo Link** &nbsp;[Day 4 (My Profile)](https://github.com/khudania/Profile)
 
 
 
