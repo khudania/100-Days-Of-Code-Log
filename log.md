@@ -60,7 +60,7 @@
 
 **Today's Progress:** Started Learning AngularJs.
 
-### Day 7: January 07, 2018 Tuesday
+### Day 7: January 09, 2018 Tuesday
 
 **Today's Progress:** Continue Learning AngularJs and Along with that I also Created my Profile.
 
@@ -69,6 +69,17 @@
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/Profile/)
 
 **Github Repo Link** &nbsp;[Day 4 (My Profile)](https://github.com/khudania/Profile)
+
+### Day 8: January 10, 2018 Wednesday
+
+**Today's Progress:** Created A Simple Responsive Website Using HTML and CSS and also started with a simple javaScript Game Development.
+                      Hopefully it will be complete soon.
+
+**Thoughts:** Created a Responsive Website.
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/responsive-website-using-css/)
+
+**Github Repo Link** &nbsp;[Day 4 (Responsive Website Using CSS3)](https://github.com/khudania/responsive-website-using-css)
 
 
 
