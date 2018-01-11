@@ -54,7 +54,7 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/basic-parallex-website/)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      [Codepen Link](https://codepen.io/hkhudania/full/jYaJqv)
 
-**Github Repo Link** &nbsp;[Day 4 (Parallax Website)](https://github.com/khudania/basic-parallex-website)
+**Github Repo Link** &nbsp;[Day 5 (Parallax Website)](https://github.com/khudania/basic-parallex-website)
 
 ### Day 6: January 08, 2018 Monday
 
@@ -68,7 +68,7 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/Profile/)
 
-**Github Repo Link** &nbsp;[Day 4 (My Profile)](https://github.com/khudania/Profile)
+**Github Repo Link** &nbsp;[Day 7 (My Profile)](https://github.com/khudania/Profile)
 
 ### Day 8: January 10, 2018 Wednesday
 
@@ -79,7 +79,7 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/responsive-website-using-css/)
 
-**Github Repo Link** &nbsp;[Day 4 (Responsive Website Using CSS3)](https://github.com/khudania/responsive-website-using-css)
+**Github Repo Link** &nbsp;[Day 8 (Responsive Website Using CSS3)](https://github.com/khudania/responsive-website-using-css)
 
 
 ### Day 9: January 11, 2018 Thrusday
