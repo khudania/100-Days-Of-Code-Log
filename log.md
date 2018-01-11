@@ -82,6 +82,16 @@
 **Github Repo Link** &nbsp;[Day 4 (Responsive Website Using CSS3)](https://github.com/khudania/responsive-website-using-css)
 
 
+### Day 9: January 11, 2018 Thrusday
+
+**Today's Progress:** Completed the 90% UI of my Javascript Game.
+
+**Thoughts:** Completed the 90% UI of my Javascript Game.
+
+**Project Link:** [N.A]
+
+**Github Repo Link** [N.A]
+
 
 
 
