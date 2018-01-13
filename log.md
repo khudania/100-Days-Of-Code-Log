@@ -95,7 +95,7 @@
 
 
 
-### Day 10 & 11: January 12, 2018 Friday and January 1e, 2018 Saturday
+### Day 10 & 11: January 12, 2018 Friday and January 13, 2018 Saturday
 
 **Today's Progress:** Doing The logic part of my Javascript Game.
 
