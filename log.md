@@ -95,3 +95,13 @@
 
 
 
+### Day 10 & 11: January 12, 2018 Friday and January 1e, 2018 Saturday
+
+**Today's Progress:** Doing The logic part of my Javascript Game.
+
+**Thoughts:** Working on logic part of my Javascript Game.
+
+**Project Link:** [N.A]
+
+
+
