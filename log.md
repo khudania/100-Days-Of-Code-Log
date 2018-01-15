@@ -104,4 +104,12 @@
 **Project Link:** [N.A]
 
 
+### Day 12 & 13: January 14, 2018 Sunday and January 15, 2018 Monday
+
+**Today's Progress:** Still Doing The logic part of my Javascript Game. And meanwhile I also started working on JavaScript30 by Webbos
+
+**Thoughts:** Working on logic part of my Javascript Game.
+
+
+
 
