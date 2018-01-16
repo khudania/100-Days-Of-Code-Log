@@ -111,5 +111,13 @@
 **Thoughts:** Working on logic part of my Javascript Game.
 
 
+### Day 14: January 16, 2018 Tuesday
 
+**Today's Progress:** Almost Completed with JavaScript Game Project And Also Updated The Github repo link.
+
+
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/javaScript-game/)
+
+**Github Repo Link**  &nbsp;[Day 14 (javaScript Game)](https://github.com/khudania/javaScriptGame)
 
