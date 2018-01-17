@@ -127,5 +127,5 @@
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/javaScript-game/)
 
-**Github Repo Link**  &nbsp;[Day 14 (javaScript Game)](https://github.com/khudania/javaScriptGame)
+**Github Repo Link**  &nbsp;[Day 15 (javaScript Game)](https://github.com/khudania/javaScriptGame)
 
