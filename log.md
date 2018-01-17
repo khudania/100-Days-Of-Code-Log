@@ -115,7 +115,15 @@
 
 **Today's Progress:** Almost Completed with JavaScript Game Project And Also Updated The Github repo link.
 
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/javaScript-game/)
 
+**Github Repo Link**  &nbsp;[Day 14 (javaScript Game)](https://github.com/khudania/javaScriptGame)
+
+
+
+### Day 15: January 17, 2018 Wednesday
+
+**Today's Progress:** Completed with JavaScript Game Project.
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/javaScript-game/)
 
