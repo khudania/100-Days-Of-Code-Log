@@ -129,3 +129,7 @@
 
 **Github Repo Link**  &nbsp;[Day 15 (javaScript Game)](https://github.com/khudania/javaScriptGame)
 
+
+### Day 16: January 18, 2018 Thrusday
+
+**Today's Progress:** Learning Algorithm
