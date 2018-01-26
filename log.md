@@ -133,3 +133,7 @@
 ### Day 16: January 18, 2018 Thrusday
 
 **Today's Progress:** Learning Algorithm
+
+### Day 17: January 19, 2018 Friday
+
+**Today's Progress:** Started with javaScript30 challenge.
