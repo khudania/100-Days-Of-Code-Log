@@ -137,3 +137,7 @@
 ### Day 17: January 19, 2018 Friday
 
 **Today's Progress:** Started with javaScript30 challenge.
+
+### Day 18: January 20, 2018 Saturday
+
+**Today's Progress:** Learning
