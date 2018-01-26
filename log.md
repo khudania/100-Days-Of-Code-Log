@@ -140,4 +140,4 @@
 
 ### Day 18: January 20, 2018 Saturday
 
-**Today's Progress:** Learning
+**Today's Progress:** 
