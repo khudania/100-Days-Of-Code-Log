@@ -141,3 +141,7 @@
 ### Day 18: January 20, 2018 Saturday
 
 **Today's Progress:** 
+
+**Project Link:** &nbsp;[Github Link](#)
+
+**Github Repo Link**  &nbsp;[Day 18()](#)
