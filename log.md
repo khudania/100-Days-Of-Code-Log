@@ -157,9 +157,6 @@
 **Github Repo Link**  &nbsp;[Day 19()](#)
 
 
-
-
-
 ### Day 20: January 22, 2018 
 
 **Today's Progress:** 
