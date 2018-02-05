@@ -136,7 +136,12 @@
 
 ### Day 17: January 19, 2018 Friday
 
-**Today's Progress:** Started with javaScript30 challenge.
+**Today's Progress:** Started with javaScript30 challenge and done 1st day of javascript30.
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/drum-kit/)
+
+**Github Repo Link:** &nbsp;[Day 17(Drum Kit)](https://github.com/khudania/drum-kit)
+
+
 
 
 
