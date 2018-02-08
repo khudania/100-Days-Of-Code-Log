@@ -141,7 +141,7 @@
 
 **Github Repo Link:** &nbsp;[Day 17(Drum Kit)](https://github.com/khudania/drum-kit)
 
-### Day
+
 
 
 
