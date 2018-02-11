@@ -136,11 +136,21 @@
 
 ### Day 17: January 19, 2018 Friday
 
-**Today's Progress:** Started with javaScript30 challenge and done 1st day of javascript30.
+**Today's Progress:** Started with javaScript30 challenge and done 1st day of javascript30 and created Drum Kit.
+
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/drum-kit/)
 
 **Github Repo Link:** &nbsp;[Day 17(Drum Kit)](https://github.com/khudania/drum-kit)
 
+
+
+### Day 18: January 20, 2018 Saturday
+
+**Today's Progress:** Completed 2nd day challenege of #javascript30 and created a Analog clock.
+
+**Project Link:** &nbsp;[Github Link](https://khudania.github.io/jsClock/)
+
+**Github Repo Link:** &nbsp;[Day 18(jsClock)](https://github.com/khudania/jsClock)
 
 
 
