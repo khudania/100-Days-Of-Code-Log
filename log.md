@@ -146,7 +146,7 @@
 
 ### Day 18: January 20, 2018 Saturday
 
-**Today's Progress:** Completed 2nd day challenege of #javascript30 and created a Analog clock.
+**Today's Progress:** Completed 2nd day challenege of #javascript30 and Created a Analog clock.
 
 **Project Link:** &nbsp;[Github Link](https://khudania.github.io/jsClock/)
 
