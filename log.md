@@ -153,6 +153,10 @@
 **Github Repo Link:** &nbsp;[Day 18(jsClock)](https://github.com/khudania/jsClock)
 
 
-### Day 19, Feburary 15, 2018 Thrusday
+### Day 19, Feburary 21, 2018 Wednesday
 
+**Today's Progress:**
 
+**Project Link:**
+
+**Github Repo Link:**
