@@ -157,7 +157,7 @@
 
 **Today's Progress:**
 
-**Project Link:**
+**Project Link:** &nbsp;[Github Link]
 
 **Github Repo Link:**
 
