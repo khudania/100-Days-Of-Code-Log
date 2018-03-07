@@ -162,9 +162,3 @@
 **Github Repo Link:**
 
 
-### Day 20, March 10, 2018 Saturday
-
-**Today's Progress:**
-
-**Project Link:** [Github Link]
-
