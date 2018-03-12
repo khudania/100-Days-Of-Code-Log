@@ -155,6 +155,6 @@
 
 ### Day 19, March 9, 2018 Friday
 
-**Today's Progress:**
+
 
 
